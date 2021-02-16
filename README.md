@@ -1,4 +1,4 @@
-###How to run
+### How to run
 java -jar cluster.jar -i input.txt -o output.txt
 ### Example output
 There are 5 sample output files int he output directory.
