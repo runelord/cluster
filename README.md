@@ -1,3 +1,5 @@
+### Required Software
+Java 8
 ### How to run
 java -jar cluster.jar -i input.txt -o output.txt
 ### Example output
