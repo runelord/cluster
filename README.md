@@ -48,7 +48,7 @@ a problem into smaller and smaller parts.
 
 One thing to consider would be only analysing objects in the direction the vehicle is moving
 as these are the only things you can collide with, well, until you have to back up.
-However, you could eliminate say half of the objects in view by filtering those between 90 and 270 degrees.
+However, you could eliminate say half of the objects in view by filtering out those between 90 and 270 degrees.
 This would still result in a linear O(n) complexity.
 
 
